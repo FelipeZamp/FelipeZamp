@@ -1,8 +1,12 @@
 ### Olá, eu sou o Felipe Zampirole 👋
 
 - 🌱 Eu atualmente estou apendendo Python!
-- 🤔 Estou interessado em conhecer novas linguagens de programação e aplica-lás na prática
-- 
+- 🤔 Estou interessado em conhecer novas linguagens de programação e aplica-lás na prática.
+
+### Hello, I'm Felipe Zampirole 👋
+
+- 🌱 I'm currently learning Python!
+- 🤔 I'm interested in learning about new programming languages and applying them in practice.
 
 <div align="center">
   <a href="https://github.com/FelipeZamp">
