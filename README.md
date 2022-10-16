@@ -8,6 +8,10 @@
 - 🌱 I'm currently learning Python!
 - 🤔 I'm interested in learning about new programming languages and applying them in practice.
  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
   ##
  
 <div> 
